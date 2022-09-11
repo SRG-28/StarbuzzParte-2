@@ -1,0 +1,5 @@
+Implementación del patrón Decorator
+Implementación del patrón MVC como patrón de diseño base
+Implementación Patrón DAO
+Implementación CRUD (Crear, Leer, Actualizar y Borrar)
+Implementación de base de datos (MariaDB)
